@@ -90,7 +90,7 @@
     },
     {
       "fixtype": 1,
-      "fix": "There was a problem intializing Chatting.\nThis crash seems to be caused by ANY and ALL of the following mods: \nHytilities-Reborn, VanillaHUD, CrashPatch, Chatting\n1. Remove these mods in the meantime",
+      "fix": "There was a problem intializing Chatting.\nThis crash seems to be caused by ANY and ALL of the following mods: \nHytils-Reborn, VanillaHUD, CrashPatch, Chatting\n1. Remove these mods in the meantime",
       "causes": [
         {
           "method": "contains",
@@ -100,11 +100,11 @@
     },
     {
       "fixtype": 1,
-      "fix": "There was a problem intializing Hytilities.\nThis crash seems to be caused by ANY and ALL of the following mods: \nHytilities-Reborn, VanillaHUD, CrashPatch, Chatting\n1. Remove these mods in the meantime",
+      "fix": "There was a problem intializing Hytils.\nThis crash seems to be caused by ANY and ALL of the following mods: \nHytils-Reborn, VanillaHUD, CrashPatch, Chatting\n1. Remove these mods in the meantime",
       "causes": [
         {
           "method": "contains",
-          "value": "at net.wyvest.hytilities.Hytilities.onFMLPreInitialization(Hytilities.java:108)"
+          "value": "at net.wyvest.hytils.Hytils.onFMLPreInitialization(Hytils.java:108)"
         }
       ]
     },
